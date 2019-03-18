@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c303ada2-b361-4bb1-8795-c07efeaa969f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/.idea/dictionaries/LittleSeven.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/src/main/java/com/zpxu/thymeleaftest/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/src/main/java/com/zpxu/thymeleaftest/controller/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/src/main/java/com/zpxu/thymeleaftest/controller/ThymeleafController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/src/main/resources/static/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/src/main/resources/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/src/main/resources/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/src/main/resources/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/src/main/resources/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/src/main/resources/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/src/main/resources/static/img/SpringMyBatis.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/src/main/resources/static/img/ajax.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/src/main/resources/static/img/android.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/src/main/resources/static/img/basic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/src/main/resources/static/img/ee.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/src/main/resources/static/img/fkjava.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/src/main/resources/static/img/framework.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/src/main/resources/static/img/html5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/src/main/resources/static/img/java.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/src/main/resources/static/img/javaee.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/src/main/resources/static/img/struts.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/src/main/resources/static/img/xml.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/src/main/resources/static/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/src/main/resources/static/js/jquery-1.11.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaftest/src/main/resources/templates/success1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaftest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thymeleaftest/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,10 +15,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
+            <state relative-caret-position="363">
               <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
             </state>
           </provider>
@@ -78,10 +50,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1080">
+            <state relative-caret-position="992">
               <caret line="36" column="84" selection-start-line="36" selection-start-column="75" selection-end-line="36" selection-end-column="84" />
             </state>
           </provider>
@@ -114,7 +86,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1083">
+            <state relative-caret-position="2310">
               <caret line="77" column="30" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
             </state>
           </provider>
@@ -276,7 +248,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552576044808" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../thymeleaftest" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -334,15 +306,15 @@
       <workItem from="1551193500756" duration="2115000" />
       <workItem from="1552573313658" duration="2712000" />
       <workItem from="1552658686078" duration="796000" />
+      <workItem from="1552918040302" duration="38000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5623000" />
+    <option name="totallyTimeSpent" value="5661000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -391,6 +363,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zpxu/logintest/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -410,13 +389,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="36" column="84" selection-start-line="36" selection-start-column="75" selection-end-line="36" selection-end-column="84" />
         </state>
       </provider>
     </entry>
@@ -440,6 +412,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2310">
+          <caret line="77" column="30" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="109800">
@@ -447,17 +426,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/main.html">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1083">
-          <caret line="77" column="30" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+        <state relative-caret-position="992">
+          <caret line="36" column="84" selection-start-line="36" selection-start-column="75" selection-end-line="36" selection-end-column="84" />
         </state>
       </provider>
     </entry>
